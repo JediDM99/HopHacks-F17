@@ -1,0 +1,17 @@
+Inspiration
+    An easy way to find friends in a crowd. Also applicable to finding people in a disaster zone or your children playing in the neighborhood. 
+What it does
+    The phone application is used by one friend to find another friend who is nearby. The friend they are trying to find would have the app running in the background and be connected to when the user seeks them.
+    The app would say something like "Your friend is 40 feet to your right." It would show the location on a map through Google Maps API and have a compass like function to direct the user to their friend. 
+How we built it
+    
+Challenges we ran into
+
+Accomplishments that we're proud of
+
+What we learned
+    User Interface
+What's next?
+    An altitude component. It would be useful on hikes, in the mall, or in a city. 
+Built With
+    Android Studio, Google Maps API
